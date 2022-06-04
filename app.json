@@ -9,8 +9,8 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://telegram.dog/VidComBot",
-  "website": "https://t.me/DX_Botz",
+  "success_url": "https://t.meuploadvidcombot",
+  "website": "",
   "repository": "https://github.com/harshkerw/VidComBot.",
   "env": {
     "ENV": {
